@@ -6,7 +6,6 @@
  html, body {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 line-height: 1.7em;
-background-color: red!important;
 }
 a{
   color: #333;
@@ -57,4 +56,19 @@ p{
 #navbar ul li a:current {
   background: #444;
   color: #f7c08a;
+}
+#main-footer {
+  text-align: center;
+  background: #444;
+  color: #fff;
+  padding: 20px;
+}
+.py-1{
+  padding: 10px 0px;
+}
+.py-2{
+ padding: 20px 0px;
+}
+.py-3{
+ padding: 30px 0px;
 }
